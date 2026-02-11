@@ -8,7 +8,7 @@
  * Author: audrasjb
  * Author URI: https://jeanbaptisteaudras.com
  * Version: 0.3
- * Tested up to: 5.6
+ * Tested up to: 6.8
  * License: GPLv2
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * Text-domain: insert-blocks-before-or-after-posts-content

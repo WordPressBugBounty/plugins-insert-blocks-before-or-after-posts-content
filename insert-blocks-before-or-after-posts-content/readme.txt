@@ -1,9 +1,9 @@
 === Insert Blocks Before or After Posts Content ===
 Contributors: whodunitagency, audrasjb, maxpertici
 Donate Link: https://paypal.me/audrasjb
-Tags: content, before, after, block, insert, append, prepend, post, page
+Tags: content, before, after, block, insert
 Requires at least: 5.3
-Tested up to: 6.4
+Tested up to: 6.9
 Stable tag: 0.3
 Requires PHP: 5.6
 License: GPLv2
